@@ -7,7 +7,6 @@ I am a student majoring in electronic information in CUIT.
 :blue_heart: Things I am currently working on:
 * Some Computer Vision project like deploying object detection model on the mobile platform RK3588.
 * Learning HPC.
-* Learning how to fine tuning LLM.
 
 :exclamation: Things I am challenging myself with:
 * Go to bed and wake up earlier in order to program with a clearer mind
