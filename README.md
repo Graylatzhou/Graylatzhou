@@ -2,34 +2,32 @@
 ## This is Graylatzhou
 
 Welcome to my Github page!
-I am a student majoring in electronic information in CUIT.
+I am a student majoring in Electronic Information Engineering at CUIT.
 
 :blue_heart: Things I am currently working on:
-* Some Computer Vision project like deploying object detection model on the mobile platform RK3588.
-* Learning HPC.
+* Participating in **InfiniCore** operator library development
+* Building custom inference engine with pure CUDA, MMA PTX, and CUTLASS implementations
+* Deploying object detection models on RK3588 mobile platform
+* Learning High Performance Computing (HPC)
 
 :exclamation: Things I am challenging myself with:
-* Go to bed and wake up earlier in order to program with a clearer mind
-* Keep Coding everyday, 4 hour at least.
+* **Flash-Attention** implementation
+* Developing custom **inference engine** with optimized CUDA operators
+* **Operator optimization** using CUTLASS and PTX assembly
 
-:computer: Things recent ones I'm interested in:
-* CUDA
-* LVLM
-* Parallel Compute
+:computer: Recent interests:
+* **CUDA Programming** & **Kernel Optimization**
+* **Large Vision Language Models (LVLM)**
+* **Parallel Computing** & **High Performance Computing**
+* **Deep Learning Operator Development**
+
+### Current Projects
+- 🔧 **InfiniCore**: Contributing to operator library development
+- ⚡ **Custom Inference Engine**: Implementing operators using pure CUDA, MMA PTX, CUTLASS
+- 📱 **Mobile AI Deployment**: Object detection on RK3588 platform
 
 <!--
 **Graylatzhou/Graylatzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
-### My Skill Set 
+You are my ![Visitor Count](https://profile-counter.glitch.me/Graylatzhou/count.svg) visitor, Thank You! :kissing_heart::kissing_heart:
