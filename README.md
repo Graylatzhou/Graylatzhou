@@ -17,7 +17,7 @@ I am a student majoring in Electronic Information Engineering at CUIT.
 
 :computer: Recent interests:
 * **CUDA Programming** & **Kernel Optimization**
-* **Large Vision Language Models (LVLM)**
+* **Large Vision Language Models (LLM)**
 * **Parallel Computing** & **High Performance Computing**
 * **Deep Learning Operator Development**
 
